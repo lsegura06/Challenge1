@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-
+![Image of website](assets/images/Horiseon.png)
 
 ## Credits
 
